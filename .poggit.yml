@@ -4,5 +4,5 @@ branches:
 - main
 projects:
   WorldEditUP:
-    path: ""
+    path: WorldEditUP/
 ...
