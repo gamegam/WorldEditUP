@@ -7,7 +7,6 @@ branches:
         description: 'WorldEditUP Plugin Build'
         icon: check
   projects:
-    WorldEditUP:
-      path: ""
-
+  WorldEditUP:
+    path: ""
 ...
