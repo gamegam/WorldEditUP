@@ -6,7 +6,7 @@ branches:
     status:
       - name: WorldEditUP
         description: 'WorldEditUP Plugin Build'
-        icon: check
+      - icon: check
   projects:
     WorldEditUP:
       path: ""
