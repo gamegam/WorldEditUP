@@ -1,0 +1,13 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/gamegam/WorldEditUP
+build-by-default: true
+branches:
+  - name: master
+    status:
+      - name: WorldEditUP
+        description: 'WorldEditUP Plugin Build'
+        icon: check
+  projects:
+    WorldEditUP:
+      path: ""
+
+...
