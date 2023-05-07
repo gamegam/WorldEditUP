@@ -1,8 +1,0 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/gamegam/Warp---
-branches:
-  - name: master
-    status:
-      - name: WorldEditUP
-        description: 'WorldEditUP Plugin Build'
-        icon: check
-...
