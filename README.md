@@ -1,1 +1,5 @@
 # WorldEditUP
+
+/up [ds]
+
+/wallsd
