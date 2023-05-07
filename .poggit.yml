@@ -1,11 +1,34 @@
----
-# Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/gamegam/WorldEditUP
+--- #Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/gamegam/WorldEditUP
 build-by-default: true
 branches:
-  - master
-    status:
-      - name: WorldEditUP
-      projects:
-      WorldEditUP:
-      path: ""
+- master
+projects:
+  WorldEditUP:
+    path: WorldEditUP/
+  ChopTree:
+    path: ChopTree/
+  Clannish:
+    path: Clannish/
+  DirectAuction:
+    path: DirectAuction/
+  ExchangeItem:
+    path: ExchangeItem/
+  GoAwayAnna:
+    path: GoAwayAnna/
+  Lotto:
+    path: Lotto/
+  MiniGames:
+    path: MiniGames/
+  PMSocket:
+    path: PMSocket/
+  PocketClan:
+    path: PocketClan/
+  SimpleElevator:
+    path: SimpleElevator/
+  SpeedBlock:
+    path: SpeedBlock/
+  TreeChopper:
+    path: TreeChopper/
+  VIPPlus:
+    path: VIPPlus/
 ...
